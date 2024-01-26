@@ -14,26 +14,31 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:A21EC0033**
 
 ## Answer
-1.B
-2.A
-3.A
-4.A
+1.A
+2.B (A)
+3.A 
+4.B
 5.A
-6.D
-7.D
-8.D
+6.D (A)
+7.D (B)
+8.C
 9.A
 10.B
-11.A
-12.C
+11.D (C)
+12.A
 13.C
 14.D
-15.D
-16.C
-17.D
+15.A
+16.B
+17.C
 18.D
-19.C
-20.D
+19.A
+20.B (D)
+21.C
+22.D (B)
+23.A
+24.B
+25.C
 
 
 ## Contribution 🛠️
